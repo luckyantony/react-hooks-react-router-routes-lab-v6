@@ -10,4 +10,4 @@ function MovieCard({title, id}) {
   )
 }
 
-export default MovieCard
+export default MovieCard;
